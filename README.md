@@ -1,4 +1,3 @@
-Michael McMahon mam1198
 Parth Patel pp795
 
 Run instructions:
